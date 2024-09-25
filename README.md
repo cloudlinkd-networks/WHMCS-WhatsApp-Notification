@@ -6,7 +6,7 @@
 
 
 
-## Features :
+## Features
 
     Client Sign-In Notice.
     New Client Registration Alert
@@ -31,7 +31,7 @@
     Support Ticket Reply via WhatsApp
     Personalized Message with Registered WHMCS User’s Phone Number
 
-## Easy install :
+## Easy install
 
     Step 1 : Sign up at https://wa.cloudlinkd.com
     Step 2 : Under ' Devices ' add your WhatsApp Number

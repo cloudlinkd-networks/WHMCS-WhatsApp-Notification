@@ -41,3 +41,12 @@ How to Use :
     Step 6 : Assign ' Full Administrator ' rights
     Step 7 : Paste the API Key from https://wa.cloudlinkd.com under ' Addons -> CloudLinkd Whmcs Module '
     Step 8 : Have fun!
+
+----------
+
+## Credits
+
+All credits to the [Team CloudLinkd](https://www.cloudlinkd.com) and the original creators of these files.</br>
+All credits to the [WHMCS Team](https://www.whmcs.com) for their great platform.
+
+Do follow the individual licenses of these files as supplied by the authors.

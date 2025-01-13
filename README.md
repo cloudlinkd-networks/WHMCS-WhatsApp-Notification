@@ -46,7 +46,7 @@
     Step 4 : Upload the addon under ' /modules/addons '
     Step 5 : Activate the addon from WHMCS Backend by heading to ' Settings -> Apps & Integration ' or ' Addon Modules '
     Step 6 : Assign ' Full Administrator ' rights
-    Step 7 : Paste the Token Key from https://wa.cloudlinkd.com of your device under ' Addons -> CloudLinkd Whmcs Module '
+    Step 7 : Paste the Token Key from https://wa.cloudlinkd.com of your device under ' Addons -> CloudLinkd Whmcs Module ' on WHMCS
     Step 8 : Have fun!
 
 ----------

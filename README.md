@@ -41,12 +41,12 @@
 ## Easy install
 
     Step 1 : Sign up at https://wa.cloudlinkd.com
-    Step 2 : Under ' Devices ' add your WhatsApp Number
+    Step 2 : Under ' Dashboard ' add your ' New Device ' WhatsApp Number
     Step 3 : Scan the QR being displayed
     Step 4 : Upload the addon under ' /modules/addons '
     Step 5 : Activate the addon from WHMCS Backend by heading to ' Settings -> Apps & Integration ' or ' Addon Modules '
     Step 6 : Assign ' Full Administrator ' rights
-    Step 7 : Paste the Token Key from https://wa.cloudlinkd.com of your device under ' Addons -> CloudLinkd Whmcs Module ' on WHMCS
+    Step 7 : Paste the API Key and Sender Phone Number (Phone Number [*Without Country Code +] ) from https://wa.cloudlinkd.com of your device under ' Addons -> CloudLinkd Whmcs Module ' on WHMCS
     Step 8 : Have fun!
 
 ----------
